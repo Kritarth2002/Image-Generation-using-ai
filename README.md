@@ -6,7 +6,9 @@ The Image Generation App is a web application built with React.js that utilizes 
 ## Demo
 
 
-![DALL-E_2_0_-_Google_Chrome_2023-02-02_20-09-08_AdobeExpress(1)](https://github.com/Kritarth2002/Image-Generation-using-ai/assets/98588519/67a3ba37-a9a3-4390-87e0-73c8ab98ac44)
+https://github.com/Kritarth2002/Image-Generation-using-ai/assets/98588519/ef48cd43-ce41-45f2-9b67-dbb597de6688
+
+
 
 ## Features
 
